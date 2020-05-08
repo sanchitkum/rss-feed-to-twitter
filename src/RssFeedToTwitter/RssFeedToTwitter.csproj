@@ -10,4 +10,10 @@
     <PackageReference Include="TweetinviAPI" Version="4.0.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Include="run.bat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>
