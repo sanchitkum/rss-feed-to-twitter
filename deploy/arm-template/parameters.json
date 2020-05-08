@@ -21,7 +21,7 @@
             "value": "rss-feed-to-twitter"
         },
         "alwaysOn": {
-            "value": false
+            "value": true
         },
         "sku": {
             "value": "Basic"
